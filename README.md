@@ -39,7 +39,7 @@
 - 🤖 Interested in **Full-Stack Development, System Design, Distributed System and AI**
 - 📱 Building frontend web apps with **React & Nextjs**
 - 🌐 Working on backend systems with **Node.js & MongoDB**
-- 💡 Competitive programmer (LeetCode & Codeforces)
+- 💡 Competitive programmer (LeetCode & Codeforces)(Backed by A2SV)
 - 🌱 Currently developing an **AI Enhanced Online Assessment and Monitoring System**
 - 🚀 Goal: Build impactful tech for communities in Ethiopia
 
