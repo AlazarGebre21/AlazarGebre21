@@ -109,6 +109,14 @@ A system for tracking and managing student attendance with a clean, component-ba
 **Tech:** React, TailwindCSS, NodeJs, Express, Postgress
 [Video Demo](https://github.com/user-attachments/assets/80ca14c4-e620-4961-861a-c6e09106db7a)
 
+#### Farm Guard 
+A CNN-based crop disease detection system that identifies 35+ conditions across 14 crop types with 92–95% accuracy, paired with a farmer-friendly web interface for instant diagnosis.
+- Tools: Python, TensorFlow, HTML, Bootstrap, JavaScript
+
+#### MarketWise
+A machine learning pipeline for vegetable price forecasting, achieving an R² score of 0.81 (~19% error reduction over baseline models), built on analysis of 121+ market records.
+- Tools: Python, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow
+
 #### 🧮 Competitive Programming
 Solutions for LeetCode & Codeforces problems.  
 **Tech:** Python, C++
