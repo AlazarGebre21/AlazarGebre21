@@ -101,11 +101,13 @@ Real-time monitoring and automated irrigation using IoT sensors.
 
 #### 🧠 AI Enhanced Online Assessment and Monitoring System
 Real time proctering and assessment system.
-**Tech:** Go, React, MongoDB
+**Tech:** Go, React, python, MongoDB
+[video Demo](https://github.com/user-attachments/assets/62244f89-4031-432b-9763-7c1859264374)
 
-#### 💼 Job Listing App (React + Tailwind)
-Job browsing dashboard with component-based UI.  
-**Tech:** React, TailwindCSS, JSON data
+#### 📋 Attendance Management System (React + Tailwind)
+A system for tracking and managing student attendance with a clean, component-based UI.  
+**Tech:** React, TailwindCSS, NodeJs, Express, Postgress
+[Video Demo](https://github.com/user-attachments/assets/80ca14c4-e620-4961-861a-c6e09106db7a)
 
 #### 🧮 Competitive Programming
 Solutions for LeetCode & Codeforces problems.  
