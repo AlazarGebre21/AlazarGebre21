@@ -115,6 +115,11 @@ Expected Graduation: 2026
 _African to Silicon Valley_
 Graduated: Nov 2025
 
+**Machine Learning and AI** 
+_MatsuoLab_
+Expected Graduation: June 2026
+
+
 ---
 
 ### 🤝 Let's Connect
@@ -128,5 +133,5 @@ Graduated: Nov 2025
 ---
 
 <p align="center">
-  <em>“Building meaningful tech for real communities.”</em>
+  <em>“Building meaningful tech for Africa and the world”</em>
 </p>
